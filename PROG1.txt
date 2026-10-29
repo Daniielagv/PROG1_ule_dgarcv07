@@ -19,3 +19,6 @@
 8. Mochila http://dle.rae.es/mochila
 9. Ordenador http://dle.rae.es/ordenador
 10. Teléfono https://dle.rae.es/tel%C3%A9fono
+
+
+11.tabla
